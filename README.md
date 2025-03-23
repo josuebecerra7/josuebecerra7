@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josuebecerra7
 - 👀 I’m interested in Machine Learning, IoT, Web Development, Data Analysis, Intelligent Systems, Augmented Reality
 - 🌱 I’m currently learning Unity, Data Analytics, Networking, Cloud Computing, Robotics 
-- 💞️ I’m looking to collaborate on anything but I am pretty busy with my master research now
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me josuebecerra.7@gmail.com
 
 <!---
